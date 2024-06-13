@@ -1,6 +1,6 @@
 # UdemigEducation
 
-User-friendly interface was designed using SCSS.A responsive image was obtained by using media tags, flexbox and grid structure.
+User-friendly interface was designed using SCSS. A responsive structure was obtained by using media tags, flexbox and grid.
 
 # Features
 
